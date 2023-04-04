@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookpdfwalawithghpages/static/css/main.ec506912.css",
+    "main.js": "/bookpdfwalawithghpages/static/js/main.270209be.js",
+    "index.html": "/bookpdfwalawithghpages/index.html",
+    "main.ec506912.css.map": "/bookpdfwalawithghpages/static/css/main.ec506912.css.map",
+    "main.270209be.js.map": "/bookpdfwalawithghpages/static/js/main.270209be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec506912.css",
+    "static/js/main.270209be.js"
+  ]
+}
