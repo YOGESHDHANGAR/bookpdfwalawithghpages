@@ -1,0 +1,37 @@
+body {
+}
+
+.cards_container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 18vmax;
+  height: 33vmax;
+  margin: 50px 30px;
+  background-color: white;
+  border-radius: 10px;
+  -webkit-box-shadow: -1px 1px 1px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: -1px 1px 1px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: -1px 1px 1px 0px rgba(0, 0, 0, 0.4);
+}
+
+.card > img {
+  width: 18vmax;
+  height: 22vmax;
+  border-radius: 10px;
+}
+
+.name {
+  margin: 10px 5px;
+}
+
+.price {
+  margin: 10px 5px;
+}
+
+.decription {
+  margin: 10px 5px;
+}
